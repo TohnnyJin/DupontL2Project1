@@ -1,0 +1,4 @@
+/*Don't show the alert box at the beginning*/
+#alert {
+    display: none;
+  }
